@@ -1,4 +1,4 @@
-<h2>Hi there. This is Anurag.</h2>
+<h2>Hi. This is Anurag</h2>
 <p>Aspiring Machine Learning Engineer, stucked in Trial and error loops</p>
 
 I am an artist who work with TensorFlow and help teams push models to production. 
@@ -15,23 +15,8 @@ I am an artist who work with TensorFlow and help teams push models to production
     </a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adhadse&theme=dark)](https://git.io/streak-stats)
+<div style="display: flex; flex-direction: row;">
+        <img class src="https://github-readme-streak-stats.herokuapp.com/?user=adhadse&theme=dark"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=adhadse&count_private=true&theme=dark&show_icons=true&hide_rank=true" alt="Anurag's Github Stats" />
+</div>
 
--------
-
-<img src="https://github-readme-stats.vercel.app/api?username=adhadse&count_private=true&theme=dark&show_icons=true" alt="Anurag's Github Stats" />
-
--------
-
-<a href="https://github.com/adhadse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhadse&theme=dark&hide_langs_below=1" />
-</a>
--------
-
-<h4> 🏆 GitHub Trophies</h4>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=adhadse&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-![GitHub last commit](https://img.shields.io/github/last-commit/adhadse/adhadse)
-![pv](https://pageview.vercel.app/?github_user=adhadse)
