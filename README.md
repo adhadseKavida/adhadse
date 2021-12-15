@@ -1,7 +1,7 @@
 <h2>Hi. This is Anurag</h2>
 <p>Aspiring Machine Learning Engineer, stucked in Trial and error loops</p>
 
-I am an artist who work with TensorFlow and help teams push models to production. 
+I am an artist who work with TensorFlow and help teams push their machine learning models to production. 
 
 - 🕐 What I am doing right <a href="https://anuragdhadse.com/now">now</a>
 - 💬 I am a combo of software developer + data scientist = ML Engineer
