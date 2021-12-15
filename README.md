@@ -16,7 +16,7 @@ I am an artist who work with TensorFlow and help teams push their machine learni
 </p>
 
 <div style="display: flex; flex-direction: row;">
-        <img class src="https://github-readme-streak-stats.herokuapp.com/?user=adhadse&theme=dark"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=adhadse&count_private=true&theme=dark&show_icons=true&hide_rank=true" alt="Anurag's Github Stats" />
+        <img class src="https://github-readme-streak-stats.herokuapp.com/?user=adhadse&theme=darcula&hide_border=true"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=adhadse&count_private=true&theme=darcula&show_icons=true&hide_rank=true&hide_border=true" alt="Anurag's Github Stats" />
 </div>
 
