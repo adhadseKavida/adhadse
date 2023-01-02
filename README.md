@@ -1,5 +1,5 @@
 <h2>Hi. This is Anurag</h2>
-<p>Aspiring Machine Learning Engineer, stucked in Trial and error loops</p>
+<p>Machine Learning Engineer, explorer, stucked in Trial and error loops</p>
 
 I am an artist who work with TensorFlow and help teams push their machine learning models to production. 
 
@@ -7,7 +7,7 @@ I am an artist who work with TensorFlow and help teams push their machine learni
 - 💬 I am a combo of software developer + data scientist = ML Engineer
 - 📑 That's why my current focus is on system design and ML infrastructure.
 - 📫 Fastest way to reach me: [Linkedin](https://www.linkedin.com/in/adhadse/)
-- ⚡  Fun fact: I love reading books.
+- ⚡  Fun fact: I love reading books. Proud user of Linux🐧
 
 Looking for my [wiki](https://wiki.adhadse.com)? 📚
 
