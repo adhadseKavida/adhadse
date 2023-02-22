@@ -3,7 +3,7 @@
 
 I am an artist who work with TensorFlow and help teams push their machine learning models to production. 
 
-- 🕐 What I am doing right <a href="https://anuragdhadse.com/now">now</a>
+- 🕐 What I am doing right <a href="https://adhadse.com/now">now</a>
 - 💬 I am a combo of software developer + data scientist = ML Engineer
 - 📑 That's why my current focus is on system design and ML infrastructure.
 - 📫 Fastest way to reach me: [Linkedin](https://www.linkedin.com/in/adhadse/)
